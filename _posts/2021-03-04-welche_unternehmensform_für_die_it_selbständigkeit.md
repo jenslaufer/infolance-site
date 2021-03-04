@@ -5,11 +5,29 @@ Eine der ersten Fragen, welche ich von Festangestellten gestellt bekomme, die mi
 Selbstverständlich möchte ich die Frage trotzdem beantworten, sonst hätte ich das Thema dieses Artikels verfehlt. Ich werde dir im Folgenden
 
 
+## Freiberuflichkeit
+
+Unter freie Berufe fallen wissenschafltische, erzieherische, unterrichtende, schriftstellerische und künstlerische Berufe. Freiberufliche Tätigkeiten sind kein Gewerbe, womit sie nicht der Gewerbeordnung unterliegen. Ein Freiberufler muss daher keine Gewerbesteuer jedoch Umsatzsteuer abführen. Freie Berufen werden im Partnergesellschaftsrecht sowie im Einkommenssteuergesetz definiert. Beispiele für freie Berufe sind Rechtsanwalt, Arzt, Hebamme, Dolmetscher, Journalist, Archikekt oder Ingenieur.
+
+Die Liste der freien Berufe ist sehr alt, weswegen du den Informatiker dort nicht finden wirst. Das ist ein Problem, weil mancher Finanzbeamter dem Informatiker die Anerkennung des Freiberuflerstatus verwehrt. Ich selbst hatte keine Probleme mit der Anerkennung, weil ich Diplomingenieur der Elektrotechnik bin. Ein formloser Schrieb war damals ausreichend, ich musste nicht einmal einen Fragebogen ausfüllen. Von anderen Freiberuflern habe ich mitbekommen, dass sie einige Schwierigkeiten mit der Anerkennung hatten.
+
+Als Freiberufler bist du mit komplett mit deinem privaten Vermögen haftbar, falls etwas schief läuft. Allerdings muss man dazu sagen, dass das finanzielle Risiko eher gering, weil du als Freiberufler keine Waren einkaufen musst oder Lieferanten bezahlen musst. Natürlich kann die Software, die du programmiert Schaden anrichten für die du haftbar gemacht werden kannst.
+
+Als Freiberufler musst du nicht zwangsweise Mitglied in der IHK werden.
+
+Mein Tipp: Gehe einfach in die Offensive, in dem du deinen zuständigen Finanzbeamten kontaktierst. Die Mitarbeitern von Finanzämtern sind meist sehr hilfsbereit.
+
+## Einzelunternehmen
+
+Die einfachste Form in Deutschland ein Gewerbe alleine anzumelden ist das Einzelunternehmen. Ähnlich wie als Freiberufler bist du frei in deinen Enscheidungen. Allerd
+
+## Gesellschaft bürgerlichen Rechts (GbR)
+
+
+
 ## Haftungsbeschränkte Gesellschaften
 
-## Gewerbe
 
-## Freiberuflichkeit
 
 
 ## Fazit
