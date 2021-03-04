@@ -15,7 +15,7 @@
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale: "en-US"
+locale: "de-DE"
 title: "infolance.de - Dein Begleiter in der Welt der IT Freiberuflichkeit"
 title_separator: "-"
 subtitle: # site tagline that appears below site title in masthead
@@ -64,7 +64,7 @@ google:
   search_engine_id: # YOUR_SEARCH_ENGINE_ID
   instant_search: # false (default), true
 # SEO Related
-google_site_verification:
+google_site_verification: dF_AaV9q28VTxOI_h71ztBfxomk808CUTopAqPmzloo
 bing_site_verification:
 yandex_site_verification:
 naver_site_verification:
@@ -88,14 +88,14 @@ social:
 analytics:
   provider: "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id: "G-3GYBRL64F0"
+    tracking_id: "G-MERF7KSBND"
     anonymize_ip: # true, false (default)
 
 # Site Author
 author:
   name: "Jens Laufer"
   avatar: # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "Founder of Infolance"
+  bio: "Gründer von Infolance"
   location: "Karlstein a. Main"
   email: "jens@infolance"
   links:
