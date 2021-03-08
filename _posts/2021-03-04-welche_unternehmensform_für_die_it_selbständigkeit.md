@@ -23,9 +23,22 @@ Ein Nachteil des Einzelunternehmens ist, dass du gewerbesteuerpflichtig bist. Au
 
 Ich finde, dass das Einzelunternehmen keine wirkliche Alternative zur Freiberuflichkeit ist. Sollte dir das Finanzamt diese jedoch verwehren, dann halte ich eine haftungsbeschränkte Gesellschaft wie z.B. eine UG für eine bessere Alternative.
 
-## Haftungsbeschränkte Gesellschaften
+## Kapitalgesellschaft
+
+Eine Kapitalgesellschaften haftet mit seinem Stammkapital. Das sind 50.000 Euro bei einer Aktiengesellschaft, 25.000 Euro bei einer GmbH, 1 Euro bei der UG. Du haftest also nicht mit deinem gesamten persönlichen Vermögen sondern nur mit dem Kapital was du initial bei der Gründung aus deinem privaten Vermögen eingezahlt hast.
+
+Als Kapitalgesellschaft bezahlst du Gewerbesteuer, Umsatzsteuer sowie Körperschafssteuer. Die Körperschaftssteuer entspricht der Einkommenssteuer bei einer Privatperson bzw. eines Freiberuflers.
+Steuerlich gibt es Konstellationen bei der du mit einer Kapitalgesellschaft Steuern gegenüber der Freiberuflichkeit sparen kannst. Als Freiberufler unterliegst der Einkommenssteuer mit einem Spitzensteuersatz von bis zu 42%. Eine Kapitalgesellschaft zahlt Körperschaftssteuer mit einem einheitlichen Steuersatz von 15%. Zusätzlich ist die Gewerbesteuer fällig, die sich am Hebesatz des Sitzes der Kapitalgesellschafts bemisst. Die Höhe ist meist ähnlich der Höhe der Gewerbesteuer. Ingesamt zahlst eine Kapitalgesellschaft etwa 30% Ertragssteuern. Schüttet deine Kapitalgesellschaft Gewinne aus so werden diese mit Kapitalertragssteuer von 25% versteuert.
+
+Steuerlich interessant ist es, wenn du einen relativ hohen Umsatz erzielst (> 100.000) dir jedoch ein relativ geringes Gehalt als Geschäftsführer bezahlst.
+Dann gibt es Konstellationen, bei denen du weniger Steuern im Vergleich zur Freiberuflichkeit bezahlst.
 
 
+Die Gründung ist sehr formal, weil du einen notariell beglaubigten Gesellschaftsvertrag benötigst. Dies macht die Gründung und Unterhalt zeit- und kostenintensiv: Du bist buchhaltungspflichtig und du einen Jahresabschluss machen, was einen hohen administrativen Aufwand bedeutet.
+
+## Personengesellschaften
+
+Zur Vervollständigkeit erwähne ich noch die Persongesellschaften. Sie kommen für deine IT-Selbstständigkeit nicht in Frage, da du für die Gründung zwei Gesellschafter benötigst. Ausserdem ist die Haftung bei den meisten Personengesellschaften nicht beschränkt. Bei den Steuern fallen Umsatzsteuer, Gewerbesteuer sowie Einkommensteuer bzw. Körperschaftssteuer an. Ich sehe keine Vorteile für dein Gründung einer Personengesellschaft.
 
 
 ## Fazit
