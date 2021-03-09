@@ -1,4 +1,9 @@
-# Welche Unternehmensform soll ich für die IT-Selbständigkeit wählen?
+---
+title: 'Welche Unternehmensform soll ich für die IT-Selbständigkeit wählen?'
+header:
+  image: https://res.cloudinary.com/jenslaufer/image/upload/c_scale,q_65,w_800/v1615277448/charles-forerunner-3fPXt37X6UQ-unsplash.jpg
+  caption: 'Photo by [Charles Forerunner](https://unsplash.com/@charles_forerunner?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText) [**Unsplash**](https://unsplash.com/s/photos/corporate?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText)'
+---
 
 Eine der ersten Fragen, welche ich von Festangestellten gestellt bekomme, die mit dem Gedanken spielen sich selbständig zu machen, ist welche Unternehmensform sie wählen sollen. Zunächst möchte ich klar stellen, dass du die Frage erst beantworten solltest, wenn du erfolgreich validierst hast, ob du dein Produkt, also deine IT-Dienstleistungen, erfolgreich am Markt verkaufen kannst. Die Validierung vollziehst du mit Hilfe eines sogenannten Minimal Viable Produkts (MVP), bei dem du unter möglichst realistischen Bedingungen versuchst deine Dienstleistungen zu verkaufen, ohne konkret ein Projekt anzunehmen. Dein Ziel ist möglichst viele Erkenntnisse zu erlangen. In anderen Worten: Du simulierst die Selbständigkeit im Guerillamodus um die Risiken des Übergangs in die Selbständigkeit zu minimieren. Wie du das tust werde ich dir an getrennter Stelle zeigen. Ich wollte nur nochmal deine Sinne schärfen, dass die Frage der Unternehmensform nicht die wichtigste Frage ist.
 
